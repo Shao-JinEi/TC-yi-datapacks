@@ -19,4 +19,4 @@ Please contact me on discord: `Shao_JinEi#9566`
 
 My Bili URL: [https://space.bilibili.com/197644147](https://space.bilibili.com/197644147)
 
-Source Cord and Release ~~coming soon~~
+Source Cord and Releases ~~coming soon~~
