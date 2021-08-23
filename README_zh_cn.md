@@ -1,7 +1,8 @@
 TC-易 服务器数据包
 --------
 [English](https://github.com/Shao-JinEi/TC-yi-datapacks/blob/main/README.md) | **中文**
-[TC-易服务器](https://space.bilibili.com/1131480381/)正在使用的和已经弃用的Minecraft数据包。
+
+[**TC-易服务器**](https://space.bilibili.com/1131480381/)正在使用的和已经弃用的Minecraft数据包。
 
 大家可以拿去使用或作为参考。
 
@@ -14,5 +15,7 @@ TC-易 服务器数据包
 
 如果你有更好的想法，
 请加QQ群联系我：[895987139](https://jq.qq.com/?_wv=1027&k=YLBrQzwx)
+
+我的B站主页: [Shao_JinEi](https://space.bilibili.com/197644147)
 
 源码和发布包~~敬请期待~~
