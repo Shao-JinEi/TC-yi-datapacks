@@ -4,7 +4,7 @@ TC-yi-datapacks
 
 **English** | [中文](https://github.com/Shao-JinEi/TC-yi-datapacks/blob/main/README_zh_cn.md)
 
-Minecraft datapack [**The Changes Server**](https://space.bilibili.com/1131480381/) in use and out use.
+Minecraft datapack [**The Changes Server**](https://space.bilibili.com/1131480381/) in use and no longer in use.
 You can take it for reference.
 
 ## Describe
