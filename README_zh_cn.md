@@ -18,6 +18,8 @@ TC-易 服务器数据包
 如果你有更好的想法，
 请加QQ群联系我：[895987139](https://jq.qq.com/?_wv=1027&k=YLBrQzwx)
 
+推荐开黑啦群组交流：[WNtVHp](https://kaihei.co/WNtVHp)
+
 我的B站主页: [Shao_JinEi](https://space.bilibili.com/197644147)
 
 源码和发布包~~敬请期待~~
